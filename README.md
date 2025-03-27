@@ -12,16 +12,13 @@
 
 1. What if AI and Web3 joined forces? 
     
-    Imagine AI systems that aren’t owned by any single entity, completely independent, resistant to censorship, and fully open-source.
+   Imagine AI systems that aren’t owned by any single entity, completely independent, resistant to censorship, and fully open-source.
+   This is the power of Decentralized AI,  and it’s arriving faster than you might expect!
     
-    This is the power of Decentralized AI,  and it’s arriving faster than you might expect!
-    
 
-Right now, AI giants like ChatGPT and Gemini are run by big tech companies. 
-
-For those of us building in Web3, the question is: 
-
-How can we design AI that’s open, decentralized, and true to blockchain values?
+   Right now, AI giants like ChatGPT and Gemini are run by big tech companies. 
+   For those of us building in Web3, the question is: 
+   How can we design AI that’s open, decentralized, and true to blockchain values?
 
 How does Decentralized AI actually works?
 
